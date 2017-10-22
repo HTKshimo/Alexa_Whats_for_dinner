@@ -1,0 +1,3 @@
+DinnerBotIntent What should I have for dinner
+DinnerBotIntent Do you have a dinner idea
+DinnerBotIntent Whats for dinner
